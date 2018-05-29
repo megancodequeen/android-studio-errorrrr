@@ -1,0 +1,2 @@
+# android-studio-errorrrr
+Hey guys, I need help. When I try to run my code on a virtual emulator on android studio, the app closes.  what do I need to do?   this is the code.    package com.example.android.myfavouritetoys;  import android.support.v7.app.AppCompatActivity; import android.os.Bundle;  public class MainActivity extends AppCompatActivity {      @Override     protected void onCreate(Bundle savedInstanceState) {         super.onCreate(savedInstanceState);         setContentView(R.layout.activity_main);     } }
